@@ -11,6 +11,6 @@ Dedicated, versatile and detail oriented Full Stack web developer, passionate fo
 ![webpack](https://user-images.githubusercontent.com/88741491/147714481-3acf201e-af5b-4cf3-aa99-2dd6c23bae6f.png)![babel](https://user-images.githubusercontent.com/88741491/147714484-9cac2680-5c9b-4a6e-bc32-92be8c7d1a70.png)
 
 # Contact
-<a rel="aguilarmateo.1604@gmail.com"><img src="https://user-images.githubusercontent.com/88741491/147714574-e0d32906-2de1-42e9-9c31-50054ee4106c.png"></a>
+<a rel="aguilarmateo.1604@gmail.com"><img src="https://user-images.githubusercontent.com/88741491/147714574-e0d32906-2de1-42e9-9c31-50054ee4106c.png"/></a>
 <a rel="" tab="_blank"><img src=></a>
 ![gmail]()![linkedin](https://user-images.githubusercontent.com/88741491/147714579-cb20d400-ddb6-4ef9-bc96-4cb8bf5ecb21.png)
