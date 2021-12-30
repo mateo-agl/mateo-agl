@@ -3,7 +3,7 @@
 Dedicated, versatile and detail oriented Full Stack web developer, passionate for programming and with intentions of learning new things, face new challenges and grow as a developer.
 
 # Skills
-<img src="https://user-images.githubusercontent.com/88741491/147713919-cfe4c96a-d017-4062-9c3c-45bdeff4b3c4.png">
+<img src="https://raw.githubusercontent.com/mateo-agl/mateo-agl/main/javascript.svg">
 <img src="https://user-images.githubusercontent.com/88741491/147713960-c79db15e-9833-4a73-be12-a9c2b4c6988e.png">
 <img src="https://user-images.githubusercontent.com/88741491/147713971-1306ad46-c056-455b-bc75-82454833fd58.png">
 <img src="https://user-images.githubusercontent.com/88741491/147713977-4ad2d066-9efa-4d64-86ad-57c465f842df.png">
