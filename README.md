@@ -1,6 +1,6 @@
 # Hi there, I'm Mateo 👋
 
-### A Front End developer passionate about coding and creating different types of applications, with intentions of learning, face new challenges and grow as a developer.
+### A Full Stack developer passionate about coding and creating different types of applications, with intentions of learning, face new challenges and grow as a developer.
 
 You can look at my portfolio here: https://mateo-agl.github.io/portfolio/
 
